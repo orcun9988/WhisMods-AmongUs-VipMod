@@ -1,0 +1,194 @@
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\bussinestour.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\bussinestour.pdb
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Assembly-CSharp.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2Cppmscorlib.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2CppSystem.Core.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2CppSystem.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\MelonLoader.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Newtonsoft.Json.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Photon3Unity3D.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnhollowerBaseLib.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnhollowerRuntimeLib.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Unity.TextMeshPro.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.AIModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.IMGUIModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.InputModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.Physics2DModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.PhysicsModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.TextCoreModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UI.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UIElementsModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UIModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityStore.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\GAF.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Creobit.Backend.PlayFab.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Creobit.Backend.Core.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\PlayFabSdk.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Unity.InputSystem.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\SonyNP.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Facepunch.Steamworks.Win64.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\ResourceManagement.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\DOTween.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.AudioModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Creobit.Advertising.Core.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.AnimationModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Creobit.Backend.Steam.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Creobit.Localization.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2CppMono.Security.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2CppSystem.Configuration.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Il2CppSystem.Xml.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\Iced.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.AndroidJNIModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.DirectorModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.GridModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.JSONSerializeModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.SharedInternalsModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.SubsystemsModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.TerrainModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.TilemapModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.VFXModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.VideoModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.VRModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.XRModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.AccessibilityModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ARModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ClothModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ClusterInputModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ClusterRendererModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.CrashReportingModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.DSPGraphModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.GameCenterModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.HotReloadModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.LocalizationModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.PerformanceReportingModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ProfilerModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.ScreenCaptureModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.SpriteMaskModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.SpriteShapeModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.StreamingModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.SubstanceModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.TLSModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UmbraModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UNETModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityConnectModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.VehiclesModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\bin\Release\UnityEngine.WindModule.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\obj\Release\bussinestour.csproj.CoreCompileInputs.cache
+C:\Users\orcun\source\repos\bussinestour\bussinestour\obj\Release\bussinestour.csproj.CopyComplete
+C:\Users\orcun\source\repos\bussinestour\bussinestour\obj\Release\bussinestour.dll
+C:\Users\orcun\source\repos\bussinestour\bussinestour\obj\Release\bussinestour.pdb
+C:\Users\orcun\source\repos\bussinestour\bussinestour\obj\Release\bussinestour.csproj.AssemblyReference.cache
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\bussinestour.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\bussinestour.pdb
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Assembly-CSharp.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2Cppmscorlib.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2CppSystem.Core.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2CppSystem.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\MelonLoader.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Newtonsoft.Json.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Photon3Unity3D.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnhollowerBaseLib.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnhollowerRuntimeLib.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Unity.InputSystem.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Unity.TextMeshPro.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.AIModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.CoreModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.IMGUIModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.InputLegacyModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.InputModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.Physics2DModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.PhysicsModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.TextCoreModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.TextRenderingModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UI.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UIElementsModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UIModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityStore.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\GAF.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Creobit.Backend.PlayFab.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Creobit.Backend.Core.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\PlayFabSdk.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\SonyNP.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Facepunch.Steamworks.Win64.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\ResourceManagement.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2CppSystem.Runtime.Serialization.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\DOTween.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.AudioModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Creobit.Advertising.Core.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.AnimationModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Creobit.Backend.Steam.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Creobit.Localization.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ParticleSystemModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.AssetBundleModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2CppMono.Security.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2CppSystem.Configuration.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Il2CppSystem.Xml.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\Iced.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.XRModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.AndroidJNIModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.DirectorModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.GridModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ImageConversionModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.JSONSerializeModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.SharedInternalsModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.SubsystemsModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.TerrainModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.TilemapModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.VFXModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.VideoModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.VRModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.AccessibilityModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ARModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ClothModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ClusterInputModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ClusterRendererModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.CrashReportingModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.DSPGraphModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.GameCenterModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.HotReloadModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.LocalizationModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.PerformanceReportingModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ProfilerModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.ScreenCaptureModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.SpriteMaskModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.SpriteShapeModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.StreamingModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.SubstanceModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.TLSModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UmbraModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UNETModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityConnectModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.VehiclesModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\bin\Release\UnityEngine.WindModule.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\obj\Release\bussinestour.csproj.CoreCompileInputs.cache
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\obj\Release\bussinestour.csproj.CopyComplete
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\obj\Release\bussinestour.dll
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\obj\Release\bussinestour.pdb
+C:\Users\orcun\Desktop\My Projects\bussinestour\bussinestour\obj\Release\bussinestour.csproj.AssemblyReference.cache
